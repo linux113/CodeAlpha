@@ -1,0 +1,6 @@
+Flask
+python-dotenv
+Werkzeug
+bandit
+flake8
+safety
